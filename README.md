@@ -1,4 +1,2 @@
-#AYAYA
-##YOSHI YOSHI
-###RUNNING LOW ON CUTIES
-####NEED BACKUP
+*ayaya*
+**running low on cuties**
